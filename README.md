@@ -1,4 +1,4 @@
-You ca donwload DeltaCHAT by clicking tags and select DeltaCHAT.
+You can donwload DeltaCHAT by clicking tag from right menu then select DeltaCHAT.
 
 Then you should download DeltaCHAT V.1.4.5 Windows
 
